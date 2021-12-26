@@ -13,3 +13,9 @@
 .backToHome {
   margin: 3rem 0 0;
 }
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
